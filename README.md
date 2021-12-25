@@ -1,2 +1,2 @@
 # sukrutas.github.io
-kişisel site
+personel website
